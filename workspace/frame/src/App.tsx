@@ -64,7 +64,7 @@ export const App: React.FC = () => {
     <div>
       <header>
         <div className="logo">
-          <img src="./decentology-logo-light.svg" width="133" alt="logo" />
+          <img src="./nftlogo.svg" width="40" alt="logo" />
         </div>
         <nav>
           <ul>
@@ -124,7 +124,7 @@ export const App: React.FC = () => {
             </div>
           </div>
           <a
-            href="http://dappstarter.decentology.com"
+            href="http://hypertextlabs.co"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -196,9 +196,9 @@ export const App: React.FC = () => {
           <div className="docs">
             <a href="https://support.decentology.com/">Support Documentation</a>
           </div>
-          <span className="footer-left">Powered by Decentology</span>
+          <span className="footer-left">Powered by HypertextLabs</span>
           <span className="footer-right">
-            <a href="https://www.decentology.com">www.decentology.com</a>
+            <a href="https://www.hypertextlabs.co">www.hypertextlabs.co</a>
           </span>
         </div>
       </main>
